@@ -1,28 +1,25 @@
 ### Hi there 👋
 
 - 🔭 I’m currently don't working;
-- 🌱 I’m currently learning: Java, Kotlin and Spring Framework;
+- 🌱 I’m currently learning: Java, Kotlin, Spring Framework and Angular;
 - 👯 I’m looking to collaborate in everything i can;
 - 🤔 I’m looking for help with get a job;
 - 💬 Ask me about anything, I would love to talk with you and share some thoughts.
-- 📫 How to reach me: send me an e-mail;
-
-
-<p align="left">
+- 📫 How to reach me: send me an e-mail: leo.cavazzola@hotmail.com
   
 <a href="https://twitter.com/leocavazzola" target="blank"> 
-  <img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" alt="leocavazzola" height="30" width="30"/>
+  Twitter
 </a>
-  
+<br>  
 <a href="https://www.linkedin.com/in/leonardo-c-46a986162" target="blank">
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" height="30" width="30"/>
+  LinkedIn
+</a>
+<br>
+<a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/222323/leonardo-cavazzola" target="blank">
+  Stack Overflow em português
 </a>
 
-<a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/222323/leonardo-cavazzola" target="blank"><img align="center" src="" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank">
