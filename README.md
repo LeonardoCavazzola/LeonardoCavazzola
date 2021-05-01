@@ -15,7 +15,7 @@
   LinkedIn
 </a>
 <br>
-<a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/222323/leonardo-cavazzola" target="blank">
+<a href="https://pt.stackoverflow.com/users/222323/leonardo-cavazzola" target="blank">
   Stack Overflow em português
 </a>
 
