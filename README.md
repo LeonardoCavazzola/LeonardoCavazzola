@@ -10,9 +10,9 @@
 
 <p align="left">
   
-<a href="https://twitter.com/leocavazzola" target="blank"><img align="center" src="" alt="leocavazzola" height="30" width="40" /></a>
+<a href="https://twitter.com/leocavazzola" target="blank"> <img align="center" src="" alt="leocavazzola" height="30" width="40" /> </a>
   
-<a href="leonardo-c-46a986162" target="blank"><img align="center" src="" height="30" width="40" /></a>
+<a href="leonardo-c-46a986162" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" height="30" width="40" /></a>
 
 <a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/222323/leonardo-cavazzola" target="blank"><img align="center" src="" height="30" width="40" /></a>
 
