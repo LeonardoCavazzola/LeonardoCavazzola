@@ -8,13 +8,13 @@
 - 📫 How to reach me: send me an e-mail: leo.cavazzola@hotmail.com
   
 <a href="https://twitter.com/leocavazzola" target="blank"> 
-  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="30" />
 </a> 
 <a href="https://www.linkedin.com/in/leonardo-c-46a986162" target="blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" />
 </a>
 <a href="https://pt.stackoverflow.com/users/222323/leonardo-cavazzola" target="blank">
-  <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stack overflow" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stack overflow" height="30" />
 </a>
 
 <h4 align="left">Languages and Tools:</h4>
@@ -38,6 +38,12 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij idea" width="40" height="40"/>
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="intellij idea" width="40" height="40"/>
+  </a> 
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -53,7 +59,4 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij idea" width="40" height="40"/>
- </a> 
 </p>
