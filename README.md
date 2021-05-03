@@ -8,15 +8,13 @@
 - 📫 How to reach me: send me an e-mail: leo.cavazzola@hotmail.com
   
 <a href="https://twitter.com/leocavazzola" target="blank"> 
-  Twitter
-</a>
-<br>  
+  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="50" />
+</a> 
 <a href="https://www.linkedin.com/in/leonardo-c-46a986162" target="blank">
-  LinkedIn
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="50" />
 </a>
-<br>
 <a href="https://pt.stackoverflow.com/users/222323/leonardo-cavazzola" target="blank">
-  Stack Overflow em português
+  <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stack overflow" height="50" />
 </a>
 
 <h4 align="left">Languages and Tools:</h4>
@@ -55,4 +53,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij idea" width="40" height="40"/>
+ </a> 
 </p>
