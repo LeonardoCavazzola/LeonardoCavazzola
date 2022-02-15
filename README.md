@@ -23,7 +23,7 @@
          width="40" height="40"/>
 </a>
 <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/512px-Kotlin_Icon_2021.svg.png" alt="kotlin" width="40"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" alt="kotlin" width="40"
          height="40"/>
 </a>
 <a href="https://www.ruby-lang.org/pt/" target="_blank">
