@@ -54,8 +54,8 @@
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-         alt="bootstrap" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
+         alt="bootstrap" width="46" height="40"/>
 </a>
 <h5 align="left">Database:</h5>
 <a href="https://mariadb.org/" target="_blank">
@@ -67,6 +67,10 @@
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgre" width="40"
+         height="40"/>
+</a>
+<a href="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"
          height="40"/>
 </a>
 <h5 align="left">IDEs:</h5>
