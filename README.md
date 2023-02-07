@@ -16,7 +16,6 @@
 </a>
 
 <h4 align="left">Languages and Tools:</h4>
-<h5 align="left">Languages:</h5>
 <a href="https://kotlinlang.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" alt="kotlin" width="40"
          height="40"/>
@@ -29,7 +28,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
          alt="typescript" width="40" height="40"/>
 </a>
-<h5 align="left">Frameworks and Platforms:</h5>
 <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
          height="40"/>
@@ -50,7 +48,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
          alt="react" width="40" height="40"/>
 </a>
-<h5 align="left">Database:</h5>
 <a href="https://mariadb.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
 </a>
