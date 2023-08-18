@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working at Mercado Livre and jaya.tech;
+- 🔭 I'm currently working at jaya.tech;
 - 👯 I’m looking to collaborate in everything i can;
 - 💬 Ask me about anything, I would love to talk with you and share some thoughts.
 - 📫 How to reach me: send me an e-mail: leo.cavazzola@hotmail.com
