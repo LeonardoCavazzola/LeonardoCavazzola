@@ -1,7 +1,5 @@
 <h1>Hi, I’m Leonardo Cavazzola</h1>
 
-### 👨‍💻 About Me  
-
 A software engineer who enjoys programming, exploring new technologies, and solving problems through code.  
 
 ### 🔧 Tech Stack & Expertise
